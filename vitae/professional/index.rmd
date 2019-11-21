@@ -1,0 +1,20 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Professional/Industry Experience
+Weight: 6
+---
+
+## American Airlines (June 2019 – Sept. 2019)
+User Research Intern
+
+*	Conduct usability research on digital channels for a major airline
+*	Assist in user testing using a variety of platforms including in-person (airport testing and observation) and online (UserTesting and Qualtrics)
+*	Create an online center of excellence for the user experience team on Microsoft SharePoint by compiling and writing documentation on a variety of research methodologies
+*	Assist of developing a test and analysis plan to evaluate and understand the social implications of a new enterprise social software
+
+## Various Yoga Studios (Oct. 2017-Present)
+Yoga Instructor
+
+*	Teach 4-6 weekly yoga classes for a variety of adult populations
+*	Create sequences and playlists for powerful yoga classes ranging from vinyasa to yoga sculpt to restorative yoga
+*	Represent studios in outside events around the DFW metroplex

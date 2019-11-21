@@ -1,0 +1,8 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Cyber Deception
+weight: 3
+
+---
+
+Along with our collaborators in UT Dallas' Computer Science department, we have been exploring ways to better understand deception online and in the world of cyber security. In addition, we are looking at ways to utilize human-machine teaming to make better decisions about deception detection. 

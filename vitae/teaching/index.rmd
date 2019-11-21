@@ -1,0 +1,12 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Teaching Experience
+Weight: 7
+---
+
+## The University of Texas at Dallas
+Teaching Assistant
+
+*	Experimental Projects (Fall 2017)
+*	Cognitive Psychology (Spring 2018)
+*	Neuroanatomy (Fall 2018)

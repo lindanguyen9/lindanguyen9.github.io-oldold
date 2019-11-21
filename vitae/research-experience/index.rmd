@@ -1,0 +1,52 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Research 
+Weight: 3
+---
+
+## School of Brain and Behavioral Sciences, the University of Texas at Dallas, Richardson, TX  
+Graduate Research Assistant (Aug. 2014– present), Army Research Lab Graduate Research Assistant (Jan. 2019 – present)  
+
+**Research Advisor: Dr. Dan Krawczyk (Aug. 2016 – present)**  
+
+*	tDCS and Deception project (Jan 2019 – present)
+    +	Design and implement an experience that will examine the effect of tDCS on implicit and explicit deception detections. Utilize self-report acculturation measures to understand the link between culture and tDCS stimulation and the link between culture and implicit/explicit deception detection
+    +	Manage a team of 8-10 undergraduate and master’s research interns
+    +	Lead weekly journal club sessions to explore literature behind tDCS, deception, and social cognition in depth
+*	Cyber Deception (Jan 2018 – present)
+    *	Work across disciplines with computer science professors and graduate students to explore novel ways to understand cyber deception and how machines and humans can interact collaboratively to make decisions
+    *	Assist in development of neural networks that may be able to detect deception
+    *	Study human behavior in detect deception and how quickly judgements are made
+*	BIOmarkers of dynamic Sociocultural capacities: Integrating Neurotechnologies and Novel Math (BIOSINM) project (Jan. 2015-present)
+    *	Development of the Sociocultural Stimuli Database of truth-telling and lie-telling cross cultural stimuli
+    *	Neuroimaging experimental design and data collection
+    *	Analysis of behavioral and neuroimaging IAT data using univariate and multivariate approaches
+    *	Currently assisting with preparation of manuscripts related to this project
+    
+**Research Advisor: Dr. Alice O’Toole (Aug. 2014 – Aug. 2016)**
+
+*	BIOSINM project
+*	Data collection for body image study
+
+## Department of Psychology and Neuroscience, Baylor University, Waco, TX  
+Undergraduate Research Assistant, Honors Thesis Student (Aug. 2011 – Aug. 2014)  
+**Research Advisor: Dr. Wade Rowatt**  
+
+*	Carried out a project that examined the effect of religious priming on implicit and explicit attitudes towards interracial couples using the web Implicit Association Test and Amazon Mechanical Turk
+*	Successfully defended an honors thesis project that examined implicit and explicit attitudes towards interracial couples
+    +	Developed the survey and IAT, analyzed data
+*	Facilitated a social and affective neuroscience reading group 
+*	Trained other undergraduate research assistants on Qualtrics and Mechanical Turk
+*	Presented research at regional and national conferences
+
+## Summer Undergraduate Research Program, the University of Texas Medical Branch, Galveston, TX
+Summer Undergraduate Research Student (June 2012-Aug. 2012)  
+**Research Advisors: Drs. Christine Arcari and Kirk Smith**   
+
+*	Designed and implemented a project that examined inter-professional perceptions between health profession students
+
+## Department of Speech and Hearing Sciences, University of North Texas, Denton, TX
+Texas Academy of Math and Science Student (Jan. 2010 – May 2011)
+**Research Advisor: Dr. Fang Ling-Lu** 
+
+*	Analyzed videos of vocal folds to assess and understand current rating scales for patient vocal folds

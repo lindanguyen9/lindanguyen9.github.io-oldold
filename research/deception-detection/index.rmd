@@ -1,0 +1,8 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Deception Detection
+weight: 2
+
+---
+
+Over the last several years, I have been looking to understand how people detect deception. This work has encompased a variety of behavioral and neural methods to examine unconscious detection of deception. 

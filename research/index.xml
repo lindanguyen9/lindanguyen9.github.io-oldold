@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Interests on Linda Nguyen Website</title>
+    <link>https://lindanguyen9.github.io/research/</link>
+    <description>Recent content in Research Interests on Linda Nguyen Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="https://lindanguyen9.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deception Detection</title>
+      <link>https://lindanguyen9.github.io/research/deception-detection/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://lindanguyen9.github.io/research/deception-detection/</guid>
+      <description>Over the last several years, I have been looking to understand how people detect deception. This work has encompased a variety of behavioral and neural methods to examine unconscious detection of deception.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Deception</title>
+      <link>https://lindanguyen9.github.io/research/cyber-deception/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://lindanguyen9.github.io/research/cyber-deception/</guid>
+      <description>Along with our collaborators in UT Dallas’ Computer Science department, we have been exploring ways to better understand deception online and in the world of cyber security. In addition, we are looking at ways to utilize human-machine teaming to make better decisions about deception detection.</description>
+    </item>
+    
+  </channel>
+</rss>

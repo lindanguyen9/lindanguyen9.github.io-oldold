@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Just For Fun on Linda Nguyen Website</title>
+    <link>https://lindanguyen9.github.io/forfun/</link>
+    <description>Recent content in Just For Fun on Linda Nguyen Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="https://lindanguyen9.github.io/forfun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design</title>
+      <link>https://lindanguyen9.github.io/forfun/design/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://lindanguyen9.github.io/forfun/design/</guid>
+      <description>Design Examples Go Here</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://lindanguyen9.github.io/forfun/photography/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://lindanguyen9.github.io/forfun/photography/</guid>
+      <description>Photography examples go here</description>
+    </item>
+    
+    <item>
+      <title>Yoga and Fitness</title>
+      <link>https://lindanguyen9.github.io/forfun/yoga/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://lindanguyen9.github.io/forfun/yoga/</guid>
+      <description>Yoga things go here</description>
+    </item>
+    
+  </channel>
+</rss>

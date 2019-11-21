@@ -1,0 +1,9 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Skills
+Weight: 8
+---
+
+* User Research Tools: Amazon Mechanical Turk, Qualtrics Survey Software, Inquisit, EPrime, UserTesting
+*	Data Analysis: SPSS, MatLab, R, Python
+*	Other: Mac OS, Windows OS, Adobe Creative Suite, Digital Photography, Videography, Microsoft Suite, Microsoft SharePoint

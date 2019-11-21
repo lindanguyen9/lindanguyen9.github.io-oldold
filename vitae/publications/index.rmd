@@ -1,0 +1,11 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Publications
+Weight: 4
+---
+
+Young, L., Nguyen, L., Hahn, C. A., O’Toole, A., Bartlett, J., Krawczyk, D. C. (in prep). Cross-Cultural Trust and Deception. 
+
+Nguyen, L., Young, L., Krawczyk, D. (in prep). Analysis of implicit and explicit lie detection using fMRI. 
+
+Nguyen, L., Young, L., Krawczyk, D. (in prep). Cross-Cultural Trustworthiness Trait Evaluations Based Upon Dynamic Presentations

@@ -1,0 +1,13 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Education
+Weight: 2
+---
+
+The University of Texas at Dallas, Richardson, TX  
+Ph.D., Cognition and Neuroscience, Aug. 2016 - present  
+M.S., Applied Cognition and Neuroscience, Aug. 2014- May 2016
+
+Baylor University, Waco, TX  
+B.S., Neuroscience, Honors Program Graduate, Aug. 2014  
+Minor: Journalism: News-Editorial
